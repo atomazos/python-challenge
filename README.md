@@ -6,8 +6,7 @@
 
 * I created another Python script that analyzes the poll data contained in the election_data.csv file to calculate the following:
 
-
-
+![Screen Shot 2020-01-23 at 11 50 48 AM](https://user-images.githubusercontent.com/54033512/73009697-a93f1200-3dd6-11ea-9cc4-cdb3bda89a44.png)
 
 
 
